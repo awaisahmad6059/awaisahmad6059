@@ -1,3 +1,4 @@
+![logo](https://github.com/awaisahmad6059/awaisahmad6059/blob/main/awais.png)
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VldmUwZzR4cmw1dTBvcXZkdzhpdW5hcnYwZ3VwaXFyeXprMDFudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
